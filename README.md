@@ -1,4 +1,4 @@
-# Smoking behavior, metabolomics, and cognitive function
+# Assessing the Biological Mechanisms Linking Smoking Behavior and Cognitive Function: A Mediation Analysis of Untargeted Metabolomics
 
 This repository accompanies a longitudinal study of whether metabolites help explain the association between smoking status and cognitive performance. The study used untargeted metabolomics measurements from blood plasma and cerebrospinal fluid (CSF) in the Wisconsin Registry for Alzheimer’s Prevention (WRAP).
 
@@ -20,4 +20,3 @@ This repository contains project documentation. The original analysis code and p
 ## Citation
 
 Choi, J. J., Koscik, R. L., Jonaitis, E. M., Panyard, D. J., Morrow, A. R., Johnson, S. C., Engelman, C. D., & Schmitz, L. L. (2023). Assessing the Biological Mechanisms Linking Smoking Behavior and Cognitive Function: A Mediation Analysis of Untargeted Metabolomics. *Metabolites*, 13(11), 1154. [doi:10.3390/metabo13111154](https://doi.org/10.3390/metabo13111154)
-
